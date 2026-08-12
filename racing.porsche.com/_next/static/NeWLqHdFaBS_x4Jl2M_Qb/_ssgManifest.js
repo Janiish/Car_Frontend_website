@@ -1,0 +1,2 @@
+self.__SSG_MANIFEST = new Set(["\u002F", "\u002F404", "\u002F[...slug]", "\u002Farticles", "\u002Farticles\u002F[...slug]", "\u002Fcars", "\u002Fcars\u002F[car]", "\u002Fdrivers", "\u002Fdrivers\u002F[driver]", "\u002Fevents", "\u002Fevents\u002F[event]", "\u002Flive-timing\u002F[slug]", "\u002Fnew-homepage", "\u002Fsearch", "\u002Fseries", "\u002Fseries\u002F[race]", "\u002Fteams", "\u002Fteams\u002F[team]"]);
+self.__SSG_MANIFEST_CB && self.__SSG_MANIFEST_CB()
